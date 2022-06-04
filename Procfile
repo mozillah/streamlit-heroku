@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run hand_mesh_app.py
